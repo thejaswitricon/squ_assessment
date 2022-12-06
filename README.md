@@ -1,4 +1,4 @@
-# squ_assessment
+# sql_assessment
 
 
 Questions:
